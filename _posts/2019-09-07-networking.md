@@ -1,12 +1,7 @@
 ---
-layout: post
 title:  "Networking: Network Basics"
-date:   2019-09-07 21:00:00 +0700
-description: ""
-categories: Technology
-tags: 
-mathjax: false
-header_image:
+categories: 
+    - Technology
 ---
 
 Bài này là bản tóm tắt kiến thức mình học được từ cuốn *Networking All-in-One For Dummies (7th Edition)*. Cuốn sách này sinh ra để tổng hợp toàn bộ kiến thức nên biết về Networking trong gần 1000 trang sách.

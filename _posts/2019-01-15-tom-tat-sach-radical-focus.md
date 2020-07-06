@@ -1,11 +1,11 @@
 ---
-layout: post
 title:  "Tóm tắt sách: Radical Focus - Christina Wodtke"
-date:   2019-01-15 00:27:00 +0700
-description: ""
-categories: review books
-mathjax: false
-header_image: /images/2019-01-15-radical-focus/radical-focus.jpg
+categories: 
+    - Books
+tags:
+    - review
+header:
+    image: /images/2019-01-15-radical-focus/radical-focus.jpg
 ---
 <!--# Tóm tắt sách: Radical Focus - Christina Wodtke-->
 

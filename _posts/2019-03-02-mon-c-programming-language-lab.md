@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Môn: C Programming Language.Lab"
-date:   2019-03-02 12:00:00 +0700
-description: "Mình viết note này nhằm tóm gọn kiến thức ở môn C.lab trên trường."
-categories: coding
-mathjax: false
-header_image: /images/2019-03-02-mon-c-programming-language-lab/c.png
+categories: 
+    - programming
+header:
+    image: /images/2019-03-02-mon-c-programming-language-lab/c.png
 ---
 <!--# Môn: C Programming Language.Lab-->
 ## Mục lục

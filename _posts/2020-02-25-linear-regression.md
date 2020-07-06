@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Linear Regression"
-date:   2020-02-25 14:00:00 +0700
-description: ""
-categories: machinelearning
-mathjax: false
-header_image: /images/2020-02-25-linear-regression/header.png
+categories: 
+    - machinelearning
+header:
+    image: /images/2020-02-25-linear-regression/header.png
 ---
 
 ## Introduction

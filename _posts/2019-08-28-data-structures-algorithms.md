@@ -1,12 +1,7 @@
 ---
-layout: post
 title:  "Data Structures & Algorithms - Course"
-date:   2019-08-24 16:00:00 +0700
-description: ""
-categories: programming
-tags:
-mathjax: true
-header_image:
+categories: 
+    - programming
 ---
 
 ## Introduction

@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Soft skills for Developers"
-date:   2020-01-11 4:00:00 +0700
-description: ""
-categories: programming 
-mathjax: false
-header_image: /images/2020-01-11-soft-skills-for-developers/header.png
+categories: 
+    - programming 
+header:
+    image: /images/2020-01-11-soft-skills-for-developers/header.png
 ---
 
 > "Good code is its own best documentation." - Steve McConnell.

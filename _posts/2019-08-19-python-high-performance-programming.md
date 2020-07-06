@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Python High Performance Programming"
-date:   2019-08-19 15:00:00 +0700
-description: "Ghi chú những kiến thức học được từ cuốn sách"
-categories: programming 
-mathjax: false
-header_image: /images/2019-08-19-python-high-performance-programming/header.jpg
+categories: 
+    - programming 
+header:
+    image: /images/2019-08-19-python-high-performance-programming/header.jpg
 ---
 
 ## 1. Benchmarking and Profiling

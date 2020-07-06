@@ -1,11 +1,7 @@
-
 ---
-layout: post
 title:  "Human Vision"
-date:   2019-07-24 12:00:00 +0700
 description: "Đây là bản ghi chép của mình sau khi học buổi 2 của khóa The Ancient Secrets of Computer Vision"
-categories: programming 
-mathjax: false
+categories: programming
 ---
 
 Đây là bản ghi chép của mình sau khi học buổi 2 của khóa The Ancient Secrets of Computer Vision, do thầy Joseph Redmon đứng lớp - người đã tạo ra mạng YOLO phá đảo về tốc độ, đạt Sota về Real-time Object Detection.

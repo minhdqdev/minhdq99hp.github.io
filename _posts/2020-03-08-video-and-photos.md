@@ -1,12 +1,9 @@
 ---
-layout: post
 title:  "Quay video và chụp ảnh"
-date:   2020-03-08 23:00:00 +0700
-description: ""
-categories: photography 
-mathjax: false
-tag: hobby
-header_image: 
+categories: 
+    - photography 
+tag: 
+    - hobby
 ---
 
 ## Quay video

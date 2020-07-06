@@ -1,6 +1,7 @@
 ---
 title:  "K-means Clustering"
-categories: machinelearning
+categories: 
+    - machinelearning
 ---
 
 ## Giới thiệu 

@@ -1,12 +1,8 @@
 ---
-layout: post
-title:  "Python `subprocess` module"
-date:   2019-08-24 16:00:00 +0700
-description: ""
+title: "Python `subprocess` module"
 categories: programming
-tags:
-mathjax: false
-header_image: /images/2019-08-23-python-cli/header.png
+header:
+    image: /images/2019-08-23-python-cli/header.png
 ---
 
 ## Định nghĩa

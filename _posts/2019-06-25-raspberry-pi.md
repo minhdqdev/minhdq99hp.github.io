@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Raspberry Pi"
-date:   2019-06-25 17:00:00 +0700
-description: "Almost everything about Raspberry Pi"
-categories: technology
-mathjax: false
-header_image: /images/2019-06-25-raspberry-pi/raspberry-pi.png
+categories: 
+    - technology
+header:
+    image: /images/2019-06-25-raspberry-pi/raspberry-pi.png
 ---
 
 ## Raspberry Pi là gì ? 

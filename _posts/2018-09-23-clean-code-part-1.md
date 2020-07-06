@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Clean Code - Part I: Names & Functions"
-date:   2018-09-23 17:00:00 +0700
-description: "Muốn là lập trình viên giỏi thì phải biết viết những dòng code chuẩn - clean. Cuốn sách Clean Code - Robert Cecil Martin là một cuốn sách kinh điển mà bất cứ lập trình viên nào cũng phải đọc."
-categories: programming
-header_image: /images/2018-09-23-clean-code-part-1/clean_code.jpg
-mathjax: true
+categories: 
+    - programming
+header:
+    image: /images/2018-09-23-clean-code-part-1/clean_code.jpg
 ---
 # Clean Code - Part I: Names & Functions
 

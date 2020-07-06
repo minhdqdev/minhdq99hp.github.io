@@ -1,12 +1,11 @@
 ---
-layout: post
 title:  "Javascript"
-date:   2019-08-21 17:00:00 +0700
-description: ""
-categories: programming
-tags: web
-mathjax: false
-header_image: /images/2019-08-21-javascript/header.png
+categories: 
+    - programming
+tags: 
+    - web
+header:
+    image: /images/2019-08-21-javascript/header.png
 ---
 
 ## Học Javascript từ đầu ở đâu ?

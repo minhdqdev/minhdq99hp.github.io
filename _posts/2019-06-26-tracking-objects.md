@@ -1,12 +1,11 @@
 ---
-layout: post
 title:  "Tracking Objects on Video"
-date:   2019-06-26 01:00:00 +0700
-description: "Object tracking là quá trình định vị một vật thể chuyển trong trong video (camera tĩnh). Real-time object tracking là một phần quan trọng trong nhiều ứng dụng Computer vision như là camera giám sát, nhận diện cử chỉ, AR, nén video và hỗ trợ tài xế lái xe."
-categories: technology
-tags: computervision
-mathjax: false
-header_image: /images/2019-06-26-tracking-objects/header.png
+categories: 
+    - technology
+tags: 
+    - computervision
+header:
+    image: /images/2019-06-26-tracking-objects/header.png
 ---
 
 Object tracking là quá trình định vị một vật thể chuyển trong trong video (camera tĩnh). Real-time object tracking là một phần quan trọng trong nhiều ứng dụng Computer vision như là camera giám sát, nhận diện cử chỉ, AR, nén video và hỗ trợ tài xế lái xe. 

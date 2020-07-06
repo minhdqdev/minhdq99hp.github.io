@@ -1,4 +1,6 @@
-
+---
+title:  "Image Segmentation"
+---
 # Image Segmentation
 
 ![instance_segmentation_example](/images/2019-07-14-image-segmentation/instance_segmentation_example.jpg)

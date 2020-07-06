@@ -1,11 +1,11 @@
 ---
-layout: post
 title: "Summary: Thương hiệu tinh gọn"
-date: 2019-02-15 22:40:50 +0700
-description: 
-categories: review books
-mathjax: false
-header_image: /images/2019-02-15-thuong-hieu-tinh-gon/xay-dung-thuong-hieu-tinh-gon.jpg
+categories: 
+    - Books
+tags:
+    - review
+header:
+    image: /images/2019-02-15-thuong-hieu-tinh-gon/xay-dung-thuong-hieu-tinh-gon.jpg
 ---
 
 - Thương hiệu là câu chuyện độc đáo mà người tiêu dùng nhớ tới khi nghĩ đến bạn. 

@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Tutorial: Jekyll and Github Pages"
-date:   2018-09-05 23:45:00 +0700
-description: "Jekyll là một công cụ đơn giản và nhanh chóng để chuyển plain text thành trang web tĩnh hay blog."
-categories: tool
-mathjax: true
-header_image: /images/2018-09-05-jekyll-github-pages/0.png
+categories: 
+    - tool
+header:
+    image: /images/2018-09-05-jekyll-github-pages/0.png
 ---
 <!-- # Jekyll và Github Pages -->
 

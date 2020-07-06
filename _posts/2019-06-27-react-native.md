@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "React Native là gì ?"
-date:   2019-06-27 15:00:00 +0700
-description: "React Native là một JavaScript framework để viết một ứng dụng *native* cho iOS và Android "
-categories: programming
-tags: web software
-mathjax: false
-header_image: /images/2019-06-27-react-native/react-native.png
+categories: 
+  - programming
+tags: 
+  - web 
+  - software
+header:
+  image: /images/2019-06-27-react-native/react-native.png
 ---
 
 ## React Native là gì ?

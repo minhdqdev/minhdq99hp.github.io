@@ -1,12 +1,9 @@
 ---
-layout: post
 title:  "Python CLI"
-date:   2019-08-23 22:00:00 +0700
-description: ""
-categories: programming
-tags:
-mathjax: false
-header_image: /images/2019-08-23-python-cli/header.png
+categories: 
+    - programming
+header:
+    image: /images/2019-08-23-python-cli/header.png
 ---
 
 Để hiểu cách sử dụng `argparse` thì bạn hãy đọc 2 bài đầu tiên dưới phần Reference, nhất là bài của RealPython.

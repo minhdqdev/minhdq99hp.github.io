@@ -1,11 +1,7 @@
 ---
-layout: post
 title:  "Data Scientist"
-date:   2019-06-07 23:00:00 +0700
-description: "Chuyện nghề nghiệp"
-categories: programming
-mathjax: false
-<!-- header_image: /images/2019-06-07-convolutional-neural-networks/header.jpg -->
+categories: 
+    - programming
 ---
 
 ## Table of Contents (unavailable)

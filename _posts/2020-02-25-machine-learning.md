@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Machine Learning"
-date:   2020-02-25 14:00:00 +0700
-description: ""
-categories: machinelearning
-mathjax: false
-header_image: /images/2020-02-25-machine-learning/header.png
+categories: 
+    - machinelearning
+header:
+    image: /images/2020-02-25-machine-learning/header.png
 ---
 
 Machine Learning là lĩnh vực nghiên cứu về các thuật toán, model nhằm giải quyết một vấn đề nào đó mà không cần phải lập trình nó explicit.

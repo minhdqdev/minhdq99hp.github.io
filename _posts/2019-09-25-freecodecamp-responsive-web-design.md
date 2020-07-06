@@ -1,12 +1,11 @@
 ---
-layout: post
 title:  "freecodecamp.org: Responsive Web Design"
-date:   2019-09-25 01:00:00 +0700
-description: "HTML, CSS, JS"
-categories: Technology
-tags: web
-mathjax: false
-header_image: /images/2019-09-25-freecodecamp-responsive-web-design/header.png
+categories: 
+    - Technology
+tags: 
+    - web
+header:
+    image: /images/2019-09-25-freecodecamp-responsive-web-design/header.png
 ---
 
 ## Basic HTML

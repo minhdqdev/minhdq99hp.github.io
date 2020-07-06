@@ -1,10 +1,7 @@
 ---
-layout: post
 title:  "Làm thế nào để có một Github profile đẹp ?"
-date:   2019-08-07 12:00:00 +0700
-description: ""
-categories: programming 
-mathjax: false
+categories: 
+    - programming
 ---
 
 ## Tại sao cần profile đẹp ?

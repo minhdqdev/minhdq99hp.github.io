@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 ---
-layout: post
 title:  "Microservices"
-date:   2020-01-10 18:00:00 +0700
-description: "Microservices are a software development technique —a variant of the service-oriented architecture structural style— that arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight."
-categories: programming 
-mathjax: false
-header_image: /images/2020-01-10-microservices/header.png
+categories: 
+    - programming 
+header:
+    image: /images/2020-01-10-microservices/header.png
 ---
 
 ## Definition
@@ -38,19 +35,3 @@ The microservices architecture is similar to the UNIX philosophy, applied to web
 
 ## References
 - Book: Hands-On Docker for Microservices with Python
-=======
----
-layout: post
-title:  "Microservices"
-date:   2020-01-10 18:00:00 +0700
-description: "Microservices are a software development technique —a variant of the service-oriented architecture structural style— that arranges an application as a collection of loosely coupled services. In a microservices architecture, services are fine-grained and the protocols are lightweight."
-categories: programming 
-mathjax: false
-header_image: /images/2020-01-10-microservices/header.png
----
-
-## Definition
-
-## Resources
-
->>>>>>> 48ef47a6fc956a85e6bc68c3116d6308cabc0fa3

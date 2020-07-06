@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Concurrency & Parallel Programming"
-date:   2019-05-10 00:54:00 +0700
-description: "Tại sao và khi nào thì sử dụng concurrency và parallelism trong lập trình."
-categories: programming
-mathjax: false
-header_image: /images/2019-05-10-concurrency-parallel-programming/header-image.png
+categories: 
+    - programming
+header:
+    image: /images/2019-05-10-concurrency-parallel-programming/header-image.png
 ---
 
 # Concurrency & Parallel Programming

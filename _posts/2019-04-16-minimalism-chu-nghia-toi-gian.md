@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Minimalism - Chủ nghĩa tối giản"
-date:   2019-03-02 12:00:00 +0700
-description: "Chủ nghĩa tối giản - thứ đã và đang thay đổi cuộc sống của mình khá nhiều. Minimalism ở đây không phải xét về khía cạnh nghệ thuật mà là về phong cách sống."
-categories: lifestyle
-mathjax: false
-header_image: /images/2019-04-16-minimalism-chu-nghia-toi-gian/header.jpg
+categories: 
+    - lifestyle
+header:
+    image: /images/2019-04-16-minimalism-chu-nghia-toi-gian/header.jpg
 ---
 
 Chủ nghĩa tối giản - thứ đã và đang thay đổi cuộc sống của mình khá nhiều. Minimalism ở đây không phải xét về khía cạnh nghệ thuật mà là về phong cách sống. Ý tưởng của chủ nghĩa tối giản thì thực ra rất...đơn giản :). Có một câu nói bao trọn cả cái chủ nghĩa này đó là: 

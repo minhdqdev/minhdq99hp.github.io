@@ -1,12 +1,7 @@
 ---
-layout: post
 title:  "DL4CV Note"
-date:   2019-08-30 23:00:00 +0700
-description: ""
-categories: AI
-tags: AI NLP
-mathjax: true
-header_image:
+categories: 
+    - AI
 ---
 
 Hôm qua, mình mới tải được bộ sách DL4CV của Adrian Rosebrook do một giảng viên chia sẻ lại. Mình đã mong được đọc bộ này từ lâu rồi, thật may mắn ghê :D

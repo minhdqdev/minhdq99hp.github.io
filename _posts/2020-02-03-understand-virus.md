@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "Virus là gì ?"
-date:   2020-02-03 6:00:00 +0700
-description: ""
-categories: life 
-mathjax: false
-tags: general life
-header_image: /images/2020-02-03-understand-virus/header.jpg
+categories: 
+    - Life 
+tags: 
+    - general
+    - life
+header:
+    image: /images/2020-02-03-understand-virus/header.jpg
 ---
 
 ## Virus vs Vi khuẩn

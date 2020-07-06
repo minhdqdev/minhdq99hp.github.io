@@ -1,12 +1,11 @@
 ---
-layout: post
 title:  "Data Visualization with D3.js"
-date:   2020-02-05 15:00:00 +0700
-description: "Data Visualization to is about conveying a story or and idea as efficiently as possible"
-categories: Technology
-tags: web
-mathjax: false
-header_image: /images/2020-02-05-data-visualization/header.png
+categories: 
+    - Technology
+tags: 
+    - web
+header:
+    image: /images/2020-02-05-data-visualization/header.png
 ---
 
 ## What is Data Visualization ?

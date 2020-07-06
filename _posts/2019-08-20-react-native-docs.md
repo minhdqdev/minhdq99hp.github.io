@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "React Native Docs"
-date:   2019-08-20 7:00:00 +0700
-description: "Ghi chép về docs của React Native"
-categories: programming 
-mathjax: false
-header_image: /images/2019-06-27-react-native/react-native.png
+categories: 
+    - programming 
+header:
+    image: /images/2019-06-27-react-native/react-native.png
 ---
 
 ## Getting Started

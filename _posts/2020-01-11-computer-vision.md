@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Computer Vision"
-date:   2020-01-11 4:30:00 +0700
-description: ""
-categories: programming 
-mathjax: false
-header_image: /images/2020-01-11-computer-vision/header.png
+categories: 
+    - programming 
+header:
+    image: /images/2020-01-11-computer-vision/header.png
 ---
 
 

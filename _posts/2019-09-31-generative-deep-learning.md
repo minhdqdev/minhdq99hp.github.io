@@ -1,12 +1,10 @@
 ---
-layout: post
 title:  "Generative Deep Learning Note"
-date:   2019-08-31 3:00:00 +0700
-description: ""
-categories: AI
-tags: AI GAN
-mathjax: true
-header_image:
+categories: 
+    - AI
+tags: 
+    - AI 
+    - GAN
 ---
 
 Cuốn sách Generative Deep Learning mới ra cách đây được vài tháng. Có thể nói là công nghệ phát triển quá nhanh, cuốn sách tóm lược lại sự phát triển của mạng generative từ năm 2014 đến nay. 

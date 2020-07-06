@@ -1,11 +1,7 @@
 ---
-layout: post
 title:  "Web Development in 2019 - A Practical Guide"
-date:   2019-06-25 17:20:00 +0700
-description: "Almost everything about Web Developement"
-categories: technology
-mathjax: false
-header_image:
+categories: 
+    - technology
 ---
 
 # Web Development in 2019 - A Practical Guide

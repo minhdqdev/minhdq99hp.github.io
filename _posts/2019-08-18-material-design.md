@@ -1,11 +1,8 @@
 ---
-layout: post
 title:  "Material Design"
-date:   2019-08-18 12:00:00 +0700
-description: ""
-categories: design 
-mathjax: false
-header_image: /images/2018-08-18-material-design/header.jpg
+categories: Multimedia
+header:
+    image: /images/2018-08-18-material-design/header.jpg
 ---
 
 https://material.io

@@ -1,11 +1,7 @@
 ---
-layout: post
 title:  "Hands-on Machine Learning with Scikit 2"
-date:   2020-01-11 4:00:00 +0700
-description: ""
-categories: programming 
-mathjax: false
-header_image: 
+categories: 
+    - programming 
 ---
 
 2. Can you name four types of problems where it shines?

@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "Convolutional Neural Networks"
-date:   2019-06-07 15:00:00 +0700
-description: "Đây là note tổng hợp kiến thức của mình về CNNs."
-categories: programming
-mathjax: false
-<!-- header_image: /images/2019-06-07-convolutional-neural-networks/header.jpg -->
+categories: 
+    - programming
+header:
+    image: /images/2019-06-07-convolutional-neural-networks/header.jpg
 ---
 
 ## Table of Contents (unavailable)
