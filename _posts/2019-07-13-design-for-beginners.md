@@ -1,5 +1,5 @@
 ---
-title:  "Tóm tắt cuốn "Thiết kế cho người mới bắt đầu" - ColorMe"
+title: "Tóm tắt cuốn "Thiết kế cho người mới bắt đầu" - ColorMe"
 categories: 
     - Multimedia
 tags:
