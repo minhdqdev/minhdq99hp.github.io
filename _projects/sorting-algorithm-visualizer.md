@@ -5,6 +5,7 @@ excerpt: "A Java program to visualize 3 algorithms: bubble sort, shell sort and 
 header:
   teaser: /images/sorting-algorithm-visualizer/header.png
 ---
+Date: June 2020
 
 This is my mini project for the OOLT.Lab course (Object-oriented Language Theory) in my university. Our team has 3 members working on this project for 2 weeks. We got an A+ (9.5/10) after all.
 
