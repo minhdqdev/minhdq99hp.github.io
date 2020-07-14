@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mandarin square capturing"
-excerpt: "Implement minimax and expectimax to play Mandarin square capturing."
+excerpt: "Dec 2019. Implement minimax and expectimax to play Mandarin square capturing."
 header:
   teaser: /images/mandarin-square-capturing/header.png
 ---
