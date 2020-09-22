@@ -1,10 +1,11 @@
 ---
-title: "Tóm tắt cuốn "Thiết kế cho người mới bắt đầu" - ColorMe"
+title:  "Tóm tắt cuốn "Thiết kế cho người mới bắt đầu" - ColorMe"
 categories: 
-    - Multimedia
+    - multimedia
 tags:
     - review
 ---
+
 # Tóm tắt cuốn "Thiết kế cho người mới bắt đầu" - ColorMe
 
 ## Chương 1: Những kiến thức căn bản
