@@ -31,7 +31,9 @@ Theo kinh nghiệm của mình cũng như chính lời của anh lecturer thì v
 
 Nếu ai đã làm quen với Python thì có thể thấy rằng việc install bằng Expo cũng giống như dùng Anaconda để cài.
 
-Nhược điểm thứ 2 đó là khó để debug, có nhiều lỗi nó báo không rõ ràng (hoặc có thể là do mình không hiểu). Nhưng đại loại là tìm kiếm cách debug trên mạng khá khoai vì sẽ có nhiều kiểu có thể dẫn đến lỗi đấy. (You know what I'm talking about right :bị nên cũng không biết lúc nào thì FB cho dừng dự án này chẳng hạn. Có thể chưa phải lúc này, khi mà nó vẫn được rất nhiều người sử dụng.
+Nhược điểm thứ 2 đó là khó để debug, có nhiều lỗi nó báo không rõ ràng (hoặc có thể là do mình không hiểu). Nhưng đại loại là tìm kiếm cách debug trên mạng khá khoai vì sẽ có nhiều kiểu có thể dẫn đến lỗi đấy. (You know what I'm talking about right)
+
+Tương lai của RN cũng không quá chắc chắn, cũng không biết lúc nào thì FB cho dừng dự án này chẳng hạn. Có thể chưa phải lúc này, khi mà nó vẫn được rất nhiều người sử dụng.
 
 Có một số công nghệ cũng mới nổi lên, ví dụ như Flutter do Google đứng sau. Mà Google thì đứng sau Android, thế nên bạn biết rồi đấy :). 
 
