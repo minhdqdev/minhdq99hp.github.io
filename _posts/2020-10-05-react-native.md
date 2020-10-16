@@ -1,9 +1,10 @@
 ---
 title: React Native tổng quan
 categories:
-    - programming
+    - Technology
 tags:
     - library
+    - reactnative
 ---
 
 Nhân tiện đợt này tham gia khóa học React Native nên mình sẽ viết note này để tổng hợp lại kiến thức. 

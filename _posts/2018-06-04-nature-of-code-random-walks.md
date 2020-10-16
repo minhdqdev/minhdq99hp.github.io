@@ -1,7 +1,8 @@
 ---
 title:  "Nature of Code: Random Walks"
-categories: 
-    - Programming
+toc: true
+categories:
+    - Technology
 tags:
     - simulation
 ---

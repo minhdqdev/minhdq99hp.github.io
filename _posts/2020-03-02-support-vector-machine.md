@@ -1,6 +1,9 @@
 ---
 title:  "Support Vector Machine"
-categories: 
+toc: true
+categories:
+    - Technology
+tags:
     - machinelearning
 header:
     image: /images/2020-03-02-support-vector-machine/header.png

@@ -1,7 +1,8 @@
 ---
 title:  "Data Structures & Algorithms - Course"
-categories: 
-    - programming
+toc: true
+categories:
+    - Technology
 ---
 
 ## Introduction
