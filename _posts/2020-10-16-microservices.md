@@ -105,6 +105,35 @@ Loosely coupled service "biết" về service khác càng ít càng tốt. Đi�
 ### High Cohension
 "Making changes in lots of different places is slower, and deploying lots services at once is risky - both of which we want to avoid."
 
+"Prematurely decomposing a system into microservices can be costly, especially if you are
+new to the domain."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Kinh nghiệm làm việc với Microservice
