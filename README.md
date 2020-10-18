@@ -7,7 +7,7 @@ In my opinion, writing blog is a good way to learn, especially for a developer. 
 I’ve categorized all posts into 4 categories:
 
 - Technology
-- Economy
+- Economics
 - Art
 - Thought
 

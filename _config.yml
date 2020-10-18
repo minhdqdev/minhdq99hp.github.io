@@ -16,9 +16,9 @@
 title: DM
 email: minhdq99hp@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Dang Quang Minh. I’m a senior student at Hanoi University of Science and Technology (HUST). My major is Information Communication and Technology (ICT).
+
+  In my opinion, writing blog is a good way to learn, especially for a developer. I’ve been writing this blog since the very first month of my university. The main purpose of this blog is to help me strengthening my knowledge. You can see that most of posts is about technology, programming, AI, hardware,… I also write posts about my opinion, my reviews and my experience.
 twitter_username: minhdq99hp
 github_username: minhdq99hp
 minimal_mistakes_skin: default
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dang Minh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Just trying my best."
+  bio    : "HUST Senior student. Developer. Interested in what computer can do."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
