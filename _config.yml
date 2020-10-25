@@ -121,3 +121,11 @@ collections:
   projects:
     output: true 
     permalink: /:collection/:path/
+
+repository: minhdq99hp/minhdq99hp.github.io
+github: [metadata]
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "minhdq99hp-github-io"
