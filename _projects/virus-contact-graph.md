@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Virus Contact Graph"
+title: "COVID-19 contact-tracing network visualization"
 excerpt: "Mar 2020. Build a force-directed graph with d3.js to show the connections between patients of COVID-19 in Vietnam."
-header:
+header:you
   teaser: /images/virus-contact-graph/header.png
 ---
 Date: Mar 2020

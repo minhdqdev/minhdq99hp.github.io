@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "DevC Challenge Assignments"
-excerpt: "Sep 2020. My assignments for the course React Native in the DevC Challenge Program 2020."
+title: "DevC Innovation Challenge Assignments"
+excerpt: "Sep 2020. My assignments for the course React Native in the DevC Innovation Challenge Program 2020."
 header:
   teaser: /images/devc-challenge-assignments/week2_result.gif
 ---

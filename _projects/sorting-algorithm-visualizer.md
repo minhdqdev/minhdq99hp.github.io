@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Sorting algorithm visualizer"
+title: "Sorting algorithm demonstrator"
 excerpt: "June 2020. A Java program to visualize 3 algorithms: bubble sort, shell sort and Tower of Hanoi"
 header:
   teaser: /images/sorting-algorithm-visualizer/header.png

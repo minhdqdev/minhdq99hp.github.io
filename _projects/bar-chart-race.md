@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Bar Chart Race"
+title: "COVID-19 Bar Chart Race"
 excerpt: "Mar 2020. Build a Bar chart race with d3.js to show the number of COVID-19 cases till March 18th 2020."
 header:
   teaser: /images/bar-chart-race/header.png
