@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "HUST Senior student. Developer. Interested in what computer can do.\n\nThis is my final year before graduation, so I'm kind of busy most of the time. Please check out this website (https://overcodedzz.github.io/handbook/) for my recent posts."
   links:
+    - label: "Technical Handbook"
+      icon: "fas fa-fw fa-link"
+      url: "https://overcodedzz.github.io/handbook/"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://linkedin.com/in/minhdq99hp"
