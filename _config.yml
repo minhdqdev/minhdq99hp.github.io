@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Dang Minh"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "HUST Senior student. Developer. Interested in what computer can do.\n\nThis is my final year before graduation, so I'm kind of busy most of the time. Please check out this website (https://overcodedzz.github.io/handbook/) for my recent posts."
+  bio    : "HUST Senior student. Developer. Interested in what computer can do.\n\nThis is my final year before graduation, so I'm kind of busy most of the time. Please check out this website (overcodedzz.github.io/handbook/) for my recent posts."
   links:
     - label: "Technical Handbook"
       icon: "fas fa-fw fa-link"
